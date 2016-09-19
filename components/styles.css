@@ -1,0 +1,28 @@
+body {
+  background-color: #F6F6F6;
+}
+#wrapper {
+  margin-top: 90px;
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.break-page {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.post {
+  margin-bottom: 40px;
+}
+/*$custom-file-text: (
+  placeholder: (
+    en: "Choose file...",
+    es: "Seleccionar archivo..."
+  ),
+  button-label: (
+    en: "Browse",
+    es: "Navegar"
+  )
+);*/
